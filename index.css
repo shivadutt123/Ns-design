@@ -140,3 +140,7 @@ body {
   background-color: #212121;
   margin: 0;
 }
+.value{
+  width: 100%;
+  color: white;
+}
